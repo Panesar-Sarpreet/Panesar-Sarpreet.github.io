@@ -1,13 +1,13 @@
 # Site settings
-title: Pudhina
+title: Sarpreet Kaur
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 
-baseurl: "/Panesar-Sarpreet" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://panesar-sarpreet.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Sarpreet
+  fullname: Sarpreet Kaur
   github: github
   linkedin: linkedin
   email: example@email.com
